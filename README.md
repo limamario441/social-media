@@ -1,3 +1,4 @@
+![Captura de Tela (16)](https://user-images.githubusercontent.com/88130044/228565844-b6eb015b-d0f9-432d-9c93-27d748f36ed8.png)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
